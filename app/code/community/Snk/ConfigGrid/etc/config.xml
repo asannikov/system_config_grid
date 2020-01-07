@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Snk_ConfigGrid>
+            <version>0.1.1</version>
+        </Snk_ConfigGrid>
+    </modules>
+    <global>
+        <models>
+            <snk_config_grid>
+                <class>Snk_ConfigGrid_Model</class>
+            </snk_config_grid>
+        </models>
+        <blocks>
+            <snk_config_grid>
+                <class>Snk_ConfigGrid_Block</class>
+            </snk_config_grid>
+        </blocks>
+        <helpers>
+            <snk_config_grid>
+                <class>Snk_ConfigGrid_Helper</class>
+            </snk_config_grid>
+        </helpers>
+    </global>
+</config>

@@ -1,0 +1,7 @@
+<?php
+
+class Snk_ConfigGrid_Model_Adminhtml_System_Config_Source_Yesno extends Mage_Adminhtml_Model_System_Config_Source_Yesno
+    implements Snk_ConfigGrid_Model_Adminhtml_System_Config_Source_Interface
+{
+
+}

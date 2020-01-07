@@ -1,0 +1,3 @@
+app/code/community/Snk/ConfigGrid app/code/community/Snk/ConfigGrid
+app/etc/modules/Snk_ConfigGrid.xml app/etc/modules/Snk_ConfigGrid.xml
+app/design/adminhtml/default/default/template/snk/config_grid/system/config/form/field app/design/adminhtml/default/default/template/snk/config_grid/system/config/form/field

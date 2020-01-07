@@ -1,0 +1,17 @@
+{
+  "name": "snk/system_config_grid",
+  "type": "magento-module",
+  "license": "OSL-3.0",
+  "description": "Advanced system configuration for devs",
+  "homepage": "https://github.com/asannikov/system_config_grid",
+  "authors": [
+    {
+      "name": "Anton Sannikov",
+      "email": "anthonysandm@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.0",
+    "magento-hackathon/magento-composer-installer": "*"
+  }
+}
